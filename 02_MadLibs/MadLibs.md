@@ -1,0 +1,1 @@
+Created directly in Google Docs: [LINK](https://docs.google.com/document/d/1iIze7mbcfjOURBDc3HkNwm7CyUWOf-mafi_JpJwWg5Q/edit#)
