@@ -254,9 +254,12 @@ the results of `Console.ReadLine()` directly into an `int` variable. Bummer!
 
 ### Reading Integers using int.ParseInt()
 
-Okay. So, that was a complete and utter failure. Luckily, there is a method that does what we need. `int.ParseInt()` is a method which converts `string` values to `int` values.
+Okay. So, that was a complete and utter failure. Luckily, there is a method that
+does what we need. `int.ParseInt()` is a method which converts `string` values
+to `int` values.
 
-1. Update your code to use `int.ParseInt()` to convert the results from `Console.ReadLine()` to an `int`
+1. Update your code to use `int.ParseInt()` to convert the results from
+   `Console.ReadLine()` to an `int`
 2. Update your code to write the message, $"Wow! You're {age}?".
 
 ![Wow Age](images/WowAge.png)
@@ -270,7 +273,79 @@ If all went well, you should see output similar to this:
 
 Awesome! You can now read integers and strings using the terminal.
 
-### Challenge
+### Challenge 1: Area of a Rectangle
 
+In this challenge, you will write a program which prompts the user to enter the
+width and height of a rectangle. It will then calculate the total area of the
+rectangle.
 
+1. Create a new folder called "Rectangle Analyzer"
+2. Open the folder in Visual Studio Code
+3. Open the Integrated Terminal
+4. Create a new C# console project (`dotnet new console`)
+5. Update your Program.cs file to do the following:
+6. Display "I can calculate the area of a rectangle!"
+7. Prompt the user "Enter the rectangle's width: "
+8. Read user input and save the value in an int variable.
+9. Prompt the user "Enter the rectangle's height: "
+10. Read user input and save the value in an int variable.
+11. Calculate the area by multiplying the width and height.
+12. Store the results in another variable.
+13. Display $"The total area of the rectangle is {area}."
 
+When you're finished, your VS Code project should look similar to this:
+
+![Area Rectangle](images/RectangleArea.png)
+
+After completing this challenge, upload a screenshot of your workspace that
+includes your `Explorer`, your `Program.cs` source code, and the output from
+running your program.
+
+**ADD YOUR SCREENSHOT HERE**
+
+### Challenge 2: Perimeter of a Rectangle
+
+In this challenge, you will update your "Rectangle Analyzer" code to also
+calculate the perimeter of the specified rectangle and output the results.
+
+1. Update your code to calculate the perimeter of the rectangle (2 * width + 2 *
+   height) and stores the value in a new variable.
+2. Update your code to also display $"The perimeter of the rectangle is
+   {perimeter}"
+
+When you're finished your output should look similar to this:
+
+![Perimeter Run](images/PerimeterRun.png)
+
+After completing this challenge, upload a screenshot of your workspace that
+includes your `Explorer`, your `Program.cs` source code, and the output from
+running your program.
+
+**ADD YOUR SCREENSHOT HERE**
+
+### Challenge 3: Character Creator
+
+In this challenge, you will create a basic program where a user can specify
+information for a character for a video game.
+
+1. Create a new folder called "Character Creator"
+2. Open your folder in VS Code
+3. Open the Integrated Terminal
+4. Create a new C# Project
+5. Your program should do the following:
+6. Display a message "Welcome to Character Creator:"
+7. Prompt the user to enter at least 5 different values. At least 2 of the
+   values must be strings and at least 2 of the values must be integers.
+8. Display a message to the user showing all of the characters information.
+9. Save your program.
+10. Run your program.
+
+When you're finished, your output should look similar to this:
+
+![Character Creator](images/CharacterCreator.png)
+
+After completing this challenge, upload a screenshot of your workspace that
+includes your `Explorer`, your `Program.cs` source code, and the output from
+running your program.
+
+**ADD YOUR SCREENSHOT HERE**
