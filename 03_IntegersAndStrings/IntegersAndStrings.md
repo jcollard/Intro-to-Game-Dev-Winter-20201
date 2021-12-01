@@ -1,5 +1,18 @@
 # Strings and Things
 
+- [Strings and Things](#strings-and-things)
+  - [Before Starting](#before-starting)
+  - [Create a New Project](#create-a-new-project)
+  - [What is a Variable](#what-is-a-variable)
+    - [Integers in C](#integers-in-c)
+    - [Understanding the Code](#understanding-the-code)
+    - [Strings in C](#strings-in-c)
+    - [Reading Integers using Console.ReadLine()](#reading-integers-using-consolereadline)
+    - [Reading Integers using int.ParseInt()](#reading-integers-using-intparseint)
+    - [Challenge 1: Area of a Rectangle](#challenge-1-area-of-a-rectangle)
+    - [Challenge 2: Perimeter of a Rectangle](#challenge-2-perimeter-of-a-rectangle)
+    - [Challenge 3: Character Creator](#challenge-3-character-creator)
+
 ## Before Starting 
 
 Before starting this activity, you should be familiar with reading and writing
