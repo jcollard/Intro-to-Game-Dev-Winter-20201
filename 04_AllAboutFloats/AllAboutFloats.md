@@ -187,6 +187,10 @@ In this challenge, you will update your Circle Analyzer program to calculate how
 
 Save your work and run it to make sure it works.
 
+What did you discover? How fast can the Flash run around the Earth?
+
+**WRITE YOUR ANSWER HERE**
+
 When you're finished, you should take a screenshot of your Visual Studio Code. The screenshot should include:
 
 1. Your File Explorer showing your project files expanded.
