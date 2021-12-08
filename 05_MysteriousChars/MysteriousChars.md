@@ -47,7 +47,7 @@ So... what is this mysterious data type? Let's take a look:
 
 1. Update your `Program.cs` file to match the one below (don't run it yet!):
 
-![First Program]
+![First Program](images/FirstProgram.png)
 
 2. Save your work but don't run your program just yet.
 
