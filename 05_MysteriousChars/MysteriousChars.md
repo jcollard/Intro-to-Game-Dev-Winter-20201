@@ -225,9 +225,12 @@ around the city but they've been encoded as integers. Using your `Integer
 Analyzer` help Batman solve the Riddler's puzzle?
 
 ```
-104  116  116  112  115   58  47   47  116  105  
-110  121   46  111  110  101  47  115  111  108 
-117  116  105  111  110 
+  73 110  32 121 111 117 114  32 119 101
+  98  32  98 114 111 119 115 101 114  32
+ 103 111  32 116 111  58  32 104 116 116
+ 112 115  58  47  47 116 105 110 121  46
+ 111 110 101  47 115 111 108 117 116 105
+ 111 110
 ```
 
 When you're finished, add your solution to this document:
