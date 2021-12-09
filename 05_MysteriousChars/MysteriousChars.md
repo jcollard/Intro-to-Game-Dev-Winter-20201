@@ -19,7 +19,7 @@ Floats" activity.
 
 Start by making a new project for this activity.
 
-1. Create a folder called "Fun with Bools and Characters"
+1. Create a folder called "Mysterious Characters"
 2. Open your folder in VS Code
 3. Open the Integrated Terminal
 4. Create a new C# console project by running `dotnet new console`
@@ -88,7 +88,7 @@ run into an error while trying to copy the code previously. This is because
 double quotes (`"`) are used with `string` types and single quotes (`'`) are
 used with `char` types.
 
-Unlike `string`s a `char` is limited to a single letter (or symbol or letter).
+Unlike `string`s a `char` is limited to a single letter, symbol, or digit.
 Try it... if you try to write `'abc'` you will receive an error message.
 
 ![Red Squiggly Bad](images/RedSquigglyBad.png)
@@ -125,7 +125,7 @@ represent the same characters. For example, some computers did in fact use `1`
 to represent `a` and others used `16` and others used `27`. This resulted in a
 whole giant mess of incompatible computer programs.
 
-So, in 1981 a group of computer scientists came together and standardized how
+So, in 1963 a group of computer scientists came together and standardized how
 computers will represent characters. The called this protocol called American
 Standard Code For Information Interchange or "ASCII" (pronounced as-key). And
 thus... `a` became `97`. 
